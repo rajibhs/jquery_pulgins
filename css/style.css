@@ -1,0 +1,38 @@
+body{
+}
+.counter_wrap{
+	padding: 100px 0;
+	background: #153e90;
+}
+.acv_wrap h2{
+	font-size: 60px;
+	font-weight: 700;
+}
+.paralax{
+	padding: 200px 0;
+
+}
+.curve{
+	font-size: 30px;
+
+}
+
+/**
+ * Text 1
+ */
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+.box{
+	height: 200px;
+	background:red;
+}
+.box2{
+	height: 200px;
+	background:green;
+}
